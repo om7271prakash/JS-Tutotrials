@@ -16,10 +16,38 @@
 
 // let currentDate = new Date();
 // console.log(currentDate.toLocaleDateString());
+// console.log(currentDate.toLocaleTimeString());
 // console.log(currentDate.toLocaleString());
 // console.log(currentDate.toString());
 
 // console.log(Date.now());
 
-let newDate = new Date(2021, 0, 5, 10, 33, 59, 00);
-console.log(newDate.toLocaleString());
+// let newDate = new Date(2021, 0, 5, 10, 33, 59, 00);
+// console.log(newDate.toLocaleString());
+
+// console.log(new Date().getFullYear());
+// console.log(new Date().getMonth());
+// console.log(new Date().getDate());
+// console.log(new Date().getDay());
+
+// console.log(new Date().setFullYear(2011));
+// console.log(new Date().setMonth(6));
+// console.log(new Date().setDate(22));
+
+
+// =============================================================
+
+
+// console.log(new Date().getTime());
+// console.log(new Date().getHours());
+// console.log(new Date().getMinutes());
+// console.log(new Date().getSeconds());
+// console.log(new Date().getMilliseconds());
+
+// console.log(new Date().setTime());
+// console.log(new Date().setHours(5));
+// console.log(new Date().setMinutes(5));
+// console.log(new Date().setSeconds(5));
+// console.log(new Date().setMilliseconds(5));
+
+
